@@ -1,4 +1,4 @@
-Flat Application
+Flats Application
 
 Overview
 
